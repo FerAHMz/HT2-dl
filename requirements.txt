@@ -1,0 +1,8 @@
+torch>=2.2
+transformers>=4.45
+numpy
+matplotlib
+jupyter
+nbconvert
+ipykernel
+bertviz  # opcional (sección 5, visualización interactiva)
